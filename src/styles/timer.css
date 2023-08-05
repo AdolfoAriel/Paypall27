@@ -1,0 +1,16 @@
+.timecon{
+    padding: 2cm;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(46, 156, 224);
+    text-align: center;
+}
+.time{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 24px;
+    margin: 0 5px;
+}

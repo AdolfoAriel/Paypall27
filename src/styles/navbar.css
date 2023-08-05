@@ -1,0 +1,48 @@
+
+.contenedor-navbar{
+    display: flex;
+}
+
+.logo{
+    height: 1.4cm;
+margin-top: .3cm;
+    margin-left: 5cm;
+}
+
+.contenedor-nav{
+   
+    display: flex;
+   padding-left: 6cm;
+   padding-right: 6cm;
+}
+
+
+.Personal{
+padding: .5cm;
+height: auto;
+}
+
+.Businees{
+padding:.5cm
+}
+.Recursos{
+    padding: .5cm;
+}
+
+.enter{
+    display: flex;
+}
+
+.Register{
+    padding: .5cm;
+color: rgb(10, 26, 40);
+}
+
+.Login{ 
+    padding: .5cm;
+   
+    border-radius: .5cm;
+    border-bottom: 1cm;
+    border-color:rgb(36, 109, 165);
+    color: rgb(36, 109, 165);
+}
